@@ -1,0 +1,5 @@
+def mostrar_mensaje():
+	  print("Mensaje dentro de la funcion")
+
+print("Iniciando scriptf")
+mostrar_mensaje()

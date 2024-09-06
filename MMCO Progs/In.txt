@@ -1,0 +1,12 @@
+Perteneiente a una lista
+In es un operador booleano que comprueba la pertenencia a una secuencia
+Pero tambien funciona con las listas. cadenas y otras secuancias:
+>>>jinetes = ['guerra','hambre','peste´,´muerte´]
+>>>'peste' in jinetes
+1
+>>>'libertinajes'
+0
+
+podemos usar not en una combinacion con in para comprobar si un elemento mo es miembro de una lista:
+>>>'libertinaje' not in jinetes
+1
